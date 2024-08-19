@@ -9,4 +9,5 @@ Analyse the dataset and review the following problem statements:-
 ✔ Total Number Of Participaing Countries
 ✔ Total Number Of Countries With Medals
 ✔ Total Number Of Sports Played
-[Olympics.pdf](https://github.com/user-attachments/files/16657053/Olympics.pdf)
+![Olympics_page-0001](https://github.com/user-attachments/assets/3169495e-f665-4675-9fd2-3e1250f448d4)
+
